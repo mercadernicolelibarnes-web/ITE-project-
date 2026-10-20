@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="NicsVerse — a little universe of original stories by Nicole L. Mercader.">
+  <title>NicsVerse ✿ | Stories for Every Mood</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="stories.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html" aria-label="NicsVerse home"><span class="brand-flower">✿</span><span>NicsVerse</span></a>
+    <nav class="main-nav" aria-label="Main navigation">
+      <a class="active" href="index.html">Home</a>
+      <a href="#library">Library</a>
+      <a href="#about">About</a>
+    </nav>
+    <div class="header-actions">
+      <button class="icon-button" id="themeToggle" type="button" aria-label="Toggle light and dark theme">☼</button>
+      <a class="nav-cta" href="#library">Explore stories ↗</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="eyebrow-dot"></span> YOUR NEXT FAVORITE CHAPTER</p>
+        <h1>Every story is a<br><em>little universe.</em></h1>
+        <p class="hero-text">A cozy corner for mystery, magic, romance, and the beautiful chaos in between. Find a story that feels like yours.</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#library">Find your next read <span>↗</span></a>
+          <a class="text-link" href="#about">Meet the storyteller <span>↓</span></a>
+        </div>
+        <div class="hero-note"><span class="note-flower">✿</span><span>30 original story worlds<br><small>One chapter each · Endless imagination</small></span></div>
+      </div>
+      <div class="hero-art" aria-label="Decorative botanical illustration">
+        <div class="orb orb-one"></div><div class="orb orb-two"></div>
+        <div class="hero-quote"><span>✧ A NOTE TO THE READER</span><p>“You never know which page will feel like coming home.”</p><small>— NicsVerse</small></div>
+        <div class="floating-flower flower-a">✿</div><div class="floating-flower flower-b">✽</div><div class="floating-flower flower-c">✧</div>
+        <div class="hero-stamp">READ<br>GROW<br>IMAGINE</div>
+      </div>
+    </section>
+
+    <section class="welcome-strip">
+      <span class="strip-flower">✿</span>
+      <p><strong>Stories made with heart.</strong> Pick a genre, discover a new world, and stay for the plot twist.</p>
+      <span class="strip-sparkle">✧</span>
+    </section>
+
+    <section class="library-section section-wrap" id="library">
+      <div class="section-heading">
+        <div><p class="eyebrow">THE STORY SHELF</p><h2>Find your <em>kind of magic.</em></h2><p class="section-subtitle">Thirty little worlds, waiting for you to step inside.</p></div>
+        <div class="library-count"><strong>30</strong><span>stories<br>to explore</span></div>
+      </div>
+      <div class="library-tools">
+        <label class="search-box"><span aria-hidden="true">⌕</span><input id="searchInput" type="search" placeholder="Search a title, author, or mood…" aria-label="Search stories"></label>
+        <div class="genre-filters" id="genreFilters" aria-label="Filter stories by genre">
+          <button class="filter-chip selected" data-genre="All" type="button">All stories</button>
+        </div>
+      </div>
+      <div class="results-line"><span id="resultsCount">30 stories</span><span>✿ Handpicked for your imagination</span></div>
+      <div class="book-grid" id="bookGrid" aria-live="polite"></div>
+      <p class="empty-state" id="emptyState" hidden>No stories found. Try another title or genre ✿</p>
+    </section>
+
+    <section class="about-section section-wrap" id="about">
+      <div class="about-flower">✿</div>
+      <div class="about-copy"><p class="eyebrow">A LITTLE ABOUT THIS VERSE</p><h2>Made of words,<br><em>rooted in wonder.</em></h2><p>NicsVerse is a student-made storybook collection by Nicole L. Mercader. Here, every genre has a place: mysteries hide clues, fantasy opens doors, romance finds its way, and ordinary days become stories worth keeping.</p><p>Take your time. Read a chapter. Let your imagination wander.</p></div>
+      <div class="about-card"><span class="about-card-flower">✿</span><span class="about-label">CREATED BY</span><h3>Nicole L.<br>Mercader</h3><p>COURSE & SECTION: <strong> BSIT · 21008</strong></p><div class="about-line"></div><p class="about-class">ITE 1 Project<br>Submitted to <strong>Ma’am Marifel Laynesa</strong></p></div>
+    </section>
+  </main>
+  
+  <footer class="site-footer">
+    <a class="footer-brand" href="index.html">✿ NicsVerse</a>
+    <p>Made with care, curiosity, and a little bit of magic.</p>
+    <span>© 2026 · Nicole L. Mercader</span>
+  </footer>
+
+  <dialog id="detailsDialog" class="details-dialog">
+    <button class="dialog-close" id="closeDialog" type="button" aria-label="Close details">×</button>
+    <div id="dialogContent"></div>
+  </dialog>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const themeToggle = document.getElementById('themeToggle');
+      if (!themeToggle) return;
+
+      if (localStorage.getItem('nicsverse-theme') === 'dark') {
+        themeToggle.textContent = '☽';
+      } else {
+        themeToggle.textContent = '☼';
+      }
+
+      themeToggle.addEventListener('click', () => {
+        const isDark = document.body.classList.contains('theme-dark');
+        if (isDark) {
+          themeToggle.textContent = '☼';
+        } else {
+          themeToggle.textContent = '☽';
+        }
+      });
+    });
+  </script>
+</body>
+</html>

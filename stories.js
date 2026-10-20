@@ -1,0 +1,238 @@
+const STORIES = [{"id": 1, "title": "The Greenhouse Secret", "author": "Nicole L. Mercader", "genre": "Mystery", "synopsis": "A quiet student discovers that the abandoned greenhouse behind her school holds clues to a disappearance nobody wants to discuss.", "chapter": "Chapter 1: The Key Beneath the Ferns", "content": "The key was waiting beneath a fern, wrapped in a note that said, “Come alone after sunset.” Mara almost left it there. The greenhouse had been locked since the night a student named Elise vanished three years ago, and every rumor about that night ended with a warning.\n\nAt dusk, rain silvered the windows as Mara slipped inside. The air smelled of wet soil and old roses. On a table lay a journal, its pages filled with sketches of the school grounds. One drawing showed a small door behind the largest planter—a door Mara had passed a hundred times without noticing.\n\nShe moved the planter. The door clicked open. Behind it was a narrow stairway and, at the bottom, a room full of photographs. Elise appeared in every one, standing beside people who claimed they barely knew her. On the final photograph, someone had circled Mara’s own face.\n\nA floorboard creaked behind her. “You weren’t supposed to find that,” a voice whispered. Mara turned, holding the journal tight. The person in the doorway wore Elise’s old silver bracelet."}, {"id": 2, "title": "Letters to the Moon", "author": "Arielle Santos", "genre": "Romance", "synopsis": "Two strangers leave letters in a library book and slowly fall in love without knowing each other’s names.", "chapter": "Chapter 1: Dear Moon", "content": "The first letter slipped from a library book when Lia opened it beside the window. It was addressed to the moon and signed only, “Someone who is learning to stay.”\n\nShe should have returned it to the librarian. Instead, she wrote a reply on the back of a receipt. She told the stranger about the city’s noisy nights, her fear of choosing the wrong future, and the way the moon made every rooftop look like a place where dreams could begin.\n\nThree days later, another letter waited between the same pages. The stranger liked old songs, rainy afternoons, and the idea that people could meet first through their thoughts. Lia began visiting the library every Thursday, carrying words she had never been brave enough to say aloud.\n\nAcross town, a boy named Noah folded her letters carefully into his pocket. He had seen Lia once, returning a stack of books near the front desk, but he did not know the quiet girl at the window was the person who had started making his world feel less lonely.\n\nTheir next letter contained a simple question: “Would you like to meet beneath the clock on Friday?” Lia’s hand trembled as she wrote yes."}, {"id": 3, "title": "The Last Starship", "author": "Ethan Reyes", "genre": "Science Fiction", "synopsis": "A young mechanic discovers the ship she repairs may be humanity’s final chance to reach a new home.", "chapter": "Chapter 1: Signal from Nowhere", "content": "The starship Meridian had not flown in twenty years, but its engines began humming the morning Sera touched the control panel. Every monitor lit up with a signal from beyond the mapped edge of space.\n\nCaptain Vale called it a glitch. The council called it a trap. Sera called it a message, because the pattern matched the lullaby her mother had sung before disappearing among the stars.\n\nShe worked through the night, replacing cracked conduits and coaxing power from the ship’s sleeping core. At 03:17, the signal changed. A voice filled the hangar, distorted but unmistakably human: “If you can hear this, do not let Earth answer.”\n\nThe Meridian’s navigation screen unfolded a route through a region officially marked empty. At its center blinked a blue planet. Sera’s mother had drawn that same planet on the back of every repair manual she owned.\n\nBehind Sera, the airlock opened without authorization. Captain Vale stepped in, carrying a sealed file with Sera’s name on it. “Before you launch,” he said, “you deserve to know why your mother never came home.”"}, {"id": 4, "title": "Ashes of the Crown", "author": "Mika Dela Cruz", "genre": "Fantasy", "synopsis": "A village baker learns that the ember in her oven is the last spark of a fallen kingdom’s magic.", "chapter": "Chapter 1: The Ember Child", "content": "Every morning, Talia baked bread before sunrise. Every morning, the coals in her oven glowed green. She had hidden the strange light for years, afraid the royal inspectors would discover it and take her away.\n\nOn the night the king’s riders arrived, the oven burst into a column of fire that made no heat. From the flames rose a tiny crown, blackened at its edges, and a voice spoke her name. “The kingdom is not dead. It is waiting.”\n\nThe oldest rider fell to one knee. The others drew their swords. Talia grabbed the crown, and warmth rushed through her hands into the cracked stones of the bakery. Outside, every dead lantern in the village ignited at once.\n\nHer grandmother had always said their family came from ordinary people. Now Talia understood that ordinary had been a shield, not a truth. The riders offered her a choice: come quietly to the capital, or watch the village burn.\n\nShe looked at the loaf cooling on the table, then at the green fire circling her fingers. “I’m not going quietly,” she said."}, {"id": 5, "title": "The Quiet Room", "author": "Janelle Cruz", "genre": "Horror", "synopsis": "A student staying late in an old school hears a classroom answering questions no one has asked.", "chapter": "Chapter 1: Attendance", "content": "At 6:06 p.m., the school bell rang though the building had been empty for an hour. Bea heard it from the library and assumed the security system had malfunctioned. Then a voice from Room 13 called her name.\n\nThe room had been sealed after a fire, its windows painted black. Bea approached with her phone flashlight raised. Inside, desks stood in neat rows, each bearing a name scratched into the wood. One desk was empty except for a fresh attendance sheet.\n\nHer name appeared at the bottom. Beside it, someone had written PRESENT.\n\nBea backed away, but the door slammed shut. A chalk squeaked across the board by itself: “Who is missing?” She tried the handle. Locked. From every desk came the soft sound of a student breathing.\n\nThen the teacher’s chair turned toward her. A figure sat there, face hidden behind a curtain of damp hair. “We have been waiting for you,” it said. “You are the only one who remembers what happened here.”"}, {"id": 6, "title": "The Summer Between", "author": "Sofia Lim", "genre": "Coming of Age", "synopsis": "Two best friends face change during their final summer together.", "chapter": "Chapter 1: One Last Summer", "content": "Mia and Claire had spent every summer together since childhood. They rode their bicycles through the neighborhood, bought ice cream from their favorite store, and watched the sunset from the hill behind their houses.\n\nThis summer was different. Claire had been accepted into a university far away, while Mia planned to stay in their hometown. Neither wanted to admit that their everyday adventures would soon become memories.\n\nThey made a list of everything they wanted to do before summer ended. On their last evening together, they sat on the hill and promised that distance would never erase their friendship."}, {"id": 7, "title": "The Forgotten Forest", "author": "Isabel Flores", "genre": "Historical Fiction", "synopsis": "A curious traveler discovers a mysterious forest missing from every map.", "chapter": "Chapter 1: The Hidden Path", "content": "Leo discovered the forest behind his grandfather's farm one afternoon. The trees were unusually tall, and tiny lights moved between their branches.\n\nHis grandfather had warned him never to follow the glowing path, but Leo heard someone calling his name. He followed the voice until the farm disappeared behind him.\n\nAt the center of the forest stood a stone fountain covered in strange symbols. Beside it was a girl who claimed she had been waiting for him for a hundred years. She explained that the forest had been forgotten because someone had stolen its name.\n\nLeo noticed that one symbol matched the mark on his grandfather's ring. Suddenly, the trees began whispering his name."}, {"id": 8, "title": "The Disappearing Letters", "author": "Camille Navarro", "genre": "Slice of Life", "synopsis": "A young woman investigates mysterious letters that vanish before she can read them.", "chapter": "Chapter 1: Missing Messages", "content": "Every Monday, Elena found a letter in her mailbox. Each letter warned her about something that would happen the following day, and every warning came true.\n\nOne Monday, the letter disappeared before she could read it. That night, she watched a shadow remove an envelope from the mailbox and followed it to an abandoned post office.\n\nInside, shelves were filled with unopened letters. One envelope carried Elena's name and a date ten years in the future.\n\nShe opened it and read the first sentence: 'Whatever happens tomorrow, do not trust the person who brings you this letter.'"}, {"id": 9, "title": "Beyond the Horizon", "author": "Kai Mendoza", "genre": "Supernatural", "synopsis": "A young sailor follows an old map in search of an island from his mother's stories.", "chapter": "Chapter 1: The Map", "content": "Tomas had grown up listening to his mother's stories about an island beyond the horizon, where the sea glowed at night and the stars seemed close enough to touch.\n\nAfter she passed away, he discovered a map hidden inside her favorite book. He prepared his boat and followed the route marked on the map.\n\nAfter several days at sea, a storm pushed him far from his planned course. When the clouds cleared, he saw golden light stretching across the water.\n\nBeyond it stood an island matching every detail in the map. As he approached, he noticed a wooden sign bearing his family name. Someone had been expecting him."}, {"id": 10, "title": "The Last Guest", "author": "Mara Villanueva", "genre": "Adventure", "synopsis": "A hotel receptionist discovers a mysterious guest missing from the hotel's records.", "chapter": "Chapter 1: Room 12", "content": "Ana worked the night shift at an old hotel scheduled to close at the end of the month. At midnight, a man entered carrying a worn suitcase and requested a room.\n\nShe gave him the key to Room 12. The following morning, his name was missing from the register, and the cleaner insisted that Room 12 had been locked for years.\n\nAna checked the register again. A new entry had appeared beneath the previous guests, containing her own name and a check-in time for that night.\n\nThen the lobby bell rang. The last guest had returned."}, {"id": 11, "title": "The Library's Secret", "author": "Rafael Garcia", "genre": "Romance", "synopsis": "A student discovers a hidden library room filled with books that predict the future.", "chapter": "Chapter 1: The Unwritten Book", "content": "Nina discovered a narrow door hidden behind a shelf in the old library. Inside were hundreds of books without titles, each bearing a person's name in gold.\n\nShe found a book with her own name on its cover. Its pages described events from her childhood, including memories she had never shared with anyone.\n\nThe final page was blank except for a sentence that appeared before her eyes: 'Tomorrow, you will meet the person who built this room.'\n\nThe following morning, an elderly visitor placed a brass key on the counter. 'I believe you found my collection,' he said."}, {"id": 12, "title": "A Taste of Tomorrow", "author": "Tessa Aquino", "genre": "Fantasy", "synopsis": "A young chef discovers a recipe book that reveals surprising truths through food.", "chapter": "Chapter 1: The Recipe Book", "content": "Lucas found an old recipe book beneath the floorboards of his grandmother's restaurant. The recipes described more than food: each dish promised to awaken a memory or bring people together.\n\nWhen Lucas prepared the first recipe, he remembered a childhood moment he had completely forgotten. The next recipe described a meal that would be served to a stranger who would change his life.\n\nOn the predicted day, a food historian entered the restaurant and ordered that exact dish. She explained that she had been searching for the book's original owner.\n\nTogether, they uncovered the story behind the recipes. At the back of the book was one final recipe titled 'Tomorrow.'"}, {"id": 13, "title": "The Midnight Train", "author": "Adrian Bautista", "genre": "Thriller", "synopsis": "A passenger boards a mysterious train that travels through forgotten memories.", "chapter": "Chapter 1: Platform Zero", "content": "At midnight, a train arrived at Platform Zero, a platform that did not appear on the station map. Curious, Adrian boarded it just before the doors closed.\n\nThe first stop was the town where he had spent his childhood. The streets looked exactly as he remembered them, but nobody noticed him.\n\nThe conductor explained that the train traveled through forgotten moments, helping passengers understand the choices that shaped their lives.\n\nAdrian asked to return to the day he had argued with his older brother. The conductor handed him a ticket and warned him that some things could not be changed, only understood. As the train approached the next station, Adrian prepared to face the memory he had avoided for years."}, {"id": 14, "title": "Garden of Whisper", "author": "Bianca Ramos", "genre": "Drama", "synopsis": "A gardener discovers that the flowers in an abandoned garden know the town's secrets.", "chapter": "Chapter 1: The Talking Flowers", "content": "Rosa heard a whisper coming from a white rose in the garden behind her aunt's house. At first, she thought she was imagining things, but soon the other flowers began speaking too.\n\nA sunflower revealed a missing necklace. A blue lily mentioned a forgotten promise. A violet whispered about a locked room beneath the town hall.\n\nRosa followed the clues to the hidden room and discovered old letters revealing the town's forgotten history.\n\nAmong the documents was a photograph of her grandmother standing beside the garden's original owner. On the back were four words: 'Keep the garden listening.'"}, {"id": 15, "title": "The Broken Compass", "author": "Luca Villareal", "genre": "Fantasy", "synopsis": "A broken compass guides a young explorer toward the truth about his missing father.", "chapter": "Chapter 1: North Is Missing", "content": "Daniel's father disappeared during an expedition years ago, leaving behind a compass that never pointed north. Instead, its needle moved whenever Daniel thought about his father.\n\nOne morning, the compass pointed toward the mountains. Daniel followed it to an abandoned cabin filled with maps, notebooks, and photographs from his father's expedition.\n\nIn a notebook, he found a message explaining that the compass pointed toward unfinished promises rather than places.\n\nThe needle moved again, leading Daniel to a narrow path behind the cabin. A familiar red scarf hung from a branch. His father had been there, and Daniel finally felt that the past was no longer a closed door."}, {"id": 16, "title": "Snowbound", "author": "Jules Fernandez", "genre": "Science Fiction", "synopsis": "Strangers trapped by a winter storm discover friendship inside a mountain lodge.", "chapter": "Chapter 1: The Storm", "content": "A sudden snowstorm trapped six travelers inside a mountain lodge. The roads disappeared beneath the snow, the power went out, and the radio stopped working.\n\nAt first, everyone kept to themselves. With nowhere to go, they eventually gathered around the fireplace and began sharing stories.\n\nA retired teacher spoke about a student who changed her life. A musician played a song he had never performed, and a nurse admitted that she had forgotten how to rest.\n\nAs the night passed, the strangers helped one another prepare food and stay warm. When morning came, the storm had weakened. They left the lodge as strangers who had become friends, carrying memories of a night they would never forget."}, {"id": 17, "title": "The Scarlet Dress", "author": "Alyssa Domingo", "genre": "Gothic Fantasy", "synopsis": "A vintage red dress leads a young woman to a forgotten family secret.", "chapter": "Chapter 1: The Red Thread", "content": "Maya found a scarlet dress inside an old trunk in her grandmother's room. While examining the fabric, she discovered a folded note sewn beneath the collar.\n\nThe note contained an address and initials belonging to someone her grandmother had never mentioned. Maya followed the clue to an old theater scheduled for demolition.\n\nBehind the stage, she found photographs of young performers. One showed her grandmother wearing the same dress. A message on the back described a promise that had never been kept.\n\nWhen Maya returned home and asked about the theater, her grandmother fell silent. 'There are things I should have told you a long time ago,' she finally said."}, {"id": 18, "title": "Under the Same Sky", "author": "Trina Velasco", "genre": "Young Adult", "synopsis": "Two friends separated by distance find a new way to keep their friendship alive.", "chapter": "Chapter 1: Different Cities", "content": "When Ella moved to another city, she promised her best friend Sam that distance would never change their friendship.\n\nAt first, they exchanged messages every day and shared photographs of their lives. As months passed, school and responsibilities made their conversations shorter.\n\nOne evening, Ella sent Sam a photograph of the moon above her apartment. Sam replied with a picture of the same moon from his hometown. They realized they were still looking at the same sky, even though they lived far apart.\n\nThey began a tradition of sharing a photograph every Sunday and telling each other one thing they were grateful for. Their lives changed, but their friendship continued to grow."}, {"id": 19, "title": "The Last Necklace", "author": "Mina Ortega", "genre": "Romance", "synopsis": "A family heirloom reveals the courageous story behind a grandmother's past.", "chapter": "Chapter 1: The Silver Pendant", "content": "After her grandmother passed away, Isabel inherited a silver necklace with a blue stone. Nobody knew where it came from.\n\nWhile cleaning the old house, Isabel found a photograph of her grandmother beside a stranger wearing the same necklace. A letter behind the photograph described a journey during a difficult period in the family's history.\n\nIsabel visited a museum, where an archivist identified the necklace as part of a collection believed to be lost. The records revealed that her grandmother had protected the collection when valuable objects disappeared.\n\nThe necklace was evidence of a brave decision that saved the family's history. Isabel finally understood why her grandmother had treasured it so deeply."}, {"id": 20, "title": "The Little Cafe", "author": "Gabriel Uy", "genre": "Mystery", "synopsis": "A small neighborhood cafe becomes a welcoming place where people find friendship.", "chapter": "Chapter 1: A Table by the Window", "content": "Jamie opened a little cafe on a quiet street, hoping to create a place where people could slow down and feel welcome.\n\nThe first week was difficult, and few customers came. Then an elderly man began visiting every morning, followed by a college student, a delivery rider, and a mother with her child.\n\nGradually, the customers became familiar with one another. They shared advice, celebrated small victories, and helped Jamie decorate the cafe for its first anniversary.\n\nOne morning, Jamie found a notebook filled with messages from her customers describing what the cafe meant to them. She realized her little cafe had become more than a business. It had become a home away from home."}, {"id": 21, "title": "The Shadows in the Attic", "author": "Rina Salazar", "genre": "Fantasy Romance", "synopsis": "A family discovers strange shadows moving inside the attic of their new home.", "chapter": "Chapter 1: Footsteps Above", "content": "When the Rivera family moved into their new house, they were warned to keep the attic locked. At first, they ignored the warning, until shadows began appearing beneath the attic door every night.\n\nNina noticed that the shadows moved even when nobody was upstairs. One evening, she found the key hidden inside an old clock and opened the door.\n\nThe attic was filled with dusty photographs and covered furniture. In the far corner stood a mirror reflecting a room that looked completely different.\n\nBehind Nina, the door slowly closed. A voice from the mirror whispered, 'You finally came back.' Nina stared at the reflection, wondering why the stranger inside it looked exactly like her."}, {"id": 22, "title": "The Ocean Between Us", "author": "Noelle Pascual", "genre": "Speculative Fiction", "synopsis": "Two siblings separated by distance try to rebuild their relationship after years apart.", "chapter": "Chapter 1: Messages Across the Sea", "content": "Lena and Miguel had been close as children, but Miguel moved overseas with their father. Their letters gradually became shorter until they almost stopped communicating.\n\nYears later, Miguel returned home when their mother became ill. The reunion felt awkward because they had missed so many years of each other's lives.\n\nOne afternoon, they found an old box of photographs near the ocean. Each picture reminded them of the childhood they had shared. They spent the evening talking honestly about their misunderstandings and the years they had missed.\n\nThey could not change the past, but they could choose to be present for the future. The ocean still separated their homes, but it no longer seemed impossible to cross."}, {"id": 23, "title": "A Second Chance", "author": "Paula Reyes", "genre": "Magical Realism", "synopsis": "A former athlete learns that failure does not have to define her future.", "chapter": "Chapter 1: Starting Again", "content": "After an injury ended her athletic career, Nina stopped visiting the court where she had trained every afternoon. She believed everyone remembered her as the player who had failed to reach her goal.\n\nYears later, she returned to coach a group of young students. At first, facing the court brought back painful memories.\n\nA young player named Bea asked Nina for help. Bea was talented but afraid of making mistakes, so Nina taught her patience and the value of learning from failure. As she coached the team, Nina realized her experience could still make a difference.\n\nWhen the team lost an important match, Nina reminded Bea that one result could not decide her future. For the first time in years, Nina felt hopeful again."}, {"id": 24, "title": "The Paper Kingdom", "author": "Marco Silva", "genre": "Action Fantasy", "synopsis": "A child enters a kingdom made of paper and must help finish its unfinished story.", "chapter": "Chapter 1: The Folded Door", "content": "Theo found a book filled with blank pages in his attic. When he folded one page into a paper bird, it suddenly flew around the room, and a tiny door appeared between the book's covers.\n\nBeyond the door was a kingdom made entirely of paper. Its trees were folded from green sheets, rivers flowed like blue ribbons, and castles stood on towers of books.\n\nThe ruler explained that the kingdom was fading because its story had never been finished. Theo picked up a pen and began writing about a brave explorer, a clever inventor, and a village where everyone helped one another. With every sentence, the kingdom grew stronger.\n\nBefore leaving, Theo promised that the story would continue. The book was no longer blank. Its first page carried a new title: The Paper Kingdom."}, {"id": 25, "title": "The Summer of Stars", "author": "Zia Mercado", "genre": "Science Fiction Mystery", "synopsis": "Four friends spend one unforgettable summer preparing for their separate futures.", "chapter": "Chapter 1: The Night We Looked Up", "content": "Every summer, four friends met on the hill behind their neighborhood to watch the stars. This year felt different because graduation was approaching and their plans would take them in different directions.\n\nThey decided to create a time capsule filled with photographs, letters, and promises to their future selves. As the evening continued, they shared their real worries. One was afraid of leaving home, another worried about choosing the wrong career, and the quietest admitted she feared being forgotten.\n\nThey listened and promised to support one another even when life became busy. Before leaving, they buried the capsule beneath a small tree.\n\nAbove them, the stars reminded them that endings could also become beginnings."}, {"id": 26, "title": "The Silent Village", "author": "Ella Navarro", "genre": "Drama", "synopsis": "A traveler investigates why a village becomes completely silent after sunset.", "chapter": "Chapter 1: No Words After Dark", "content": "When Alex arrived at the village, he noticed that nobody spoke after sunset. Shopkeepers closed their doors early, families stayed indoors, and the streets became silent.\n\nAn old woman offered Alex a room and warned him not to make a sound after dark. That night, Alex heard footsteps leading toward the village bell tower.\n\nThe next morning, he discovered that the villagers had made a promise to protect a secret hidden beneath the tower. Alex investigated and found records revealing a forgotten injustice. The village had remained silent for generations because everyone feared the truth.\n\nNow Alex had to decide whether to reveal what he had discovered."}, {"id": 27, "title": "A Map to You", "author": "Dylan Tan", "genre": "Thriller", "synopsis": "A mysterious map leads a young woman back to a friend she thought she had lost.", "chapter": "Chapter 1: The First Mark", "content": "Sophie found a map inside a birthday card from an old friend she had not seen in years. It showed five locations around the city, each marked with a small star.\n\nAt the first location, she found a childhood photograph. At the second, she discovered a note reminding her of a promise they had made. Each stop brought back memories of their friendship and the misunderstanding that had separated them.\n\nAt the final location, Sophie found Adrian waiting in the park where they used to meet after school. He explained that the map was his way of apologizing.\n\nSophie admitted she had missed him too. They spent the afternoon talking honestly and decided to give their friendship another chance."}, {"id": 28, "title": "The Blue Note", "author": "Faye Castillo", "genre": "Fantasy", "synopsis": "A musician discovers a forgotten melody that connects his family to a mysterious composer.", "chapter": "Chapter 1: A Melody in Blue", "content": "While repairing an old piano, Caleb discovered a blue sheet of music hidden beneath the keys. The melody felt strangely familiar, reminding him of stories his grandfather told about a musician who had disappeared.\n\nCaleb searched old records and discovered that the composer had written a final piece dedicated to someone he loved, but the music had never been completed.\n\nHe spent weeks studying the notes and finishing the melody. At a small community concert, Caleb performed the piece. An elderly woman in the audience began to cry and introduced herself as the composer's daughter.\n\nShe had been searching for the missing music for decades. Together, they listened as the final notes brought a forgotten story back to life."}, {"id": 29, "title": "The Golden Hour", "author": "Lorenzo Cruz", "genre": "Adventure Fantasy", "synopsis": "A photographer learns to appreciate ordinary moments while documenting her hometown.", "chapter": "Chapter 1: Before the Sun Sets", "content": "Every afternoon, Clara carried her camera through her hometown, photographing markets, children playing, and neighbors sharing stories. Her favorite time was the golden hour, when sunlight turned familiar streets into something beautiful.\n\nAfter receiving several rejections for her photography, Clara began wondering whether her work mattered. One evening, she showed her photographs to a neighbor whose shop appeared in many of them.\n\nThe woman recognized old friends and remembered family celebrations she had nearly forgotten. Clara realized her photographs were preserving everyday moments that people might otherwise overlook.\n\nShe began documenting the stories behind each photograph. This time, she was not chasing perfection. She was learning to notice what was already beautiful."}, {"id": 30, "title": "When We Meet Again", "author": "Mavi Santiago", "genre": "Romance Sci-Fi", "synopsis": "Two childhood friends reunite and discover that their connection has never truly disappeared.", "chapter": "Chapter 1: The Familiar Stranger", "content": "The last time Anna saw Daniel, they were standing outside their old school, promising to remain friends forever. Life eventually carried them in different directions, and their messages stopped.\n\nYears later, Anna returned to their hometown and entered a small bookstore. There she found Daniel arranging books near the window. For a moment, neither knew what to say. Then Daniel smiled and asked whether she still remembered the shortcut behind their school.\n\nThey spent the afternoon walking through familiar places and talking about the people they had become. Before saying goodbye, Daniel asked whether they could keep in touch this time. Anna agreed.\n\nThey could not return to the past, but they could choose what happened next."}];
+const coverColors = [
+ ['#dce9cd','#9ebc9a'],['#f4dfdf','#d4a8a7'],['#d9e6f2','#9bb6d3'],['#f4e5bf','#d7b36e'],['#d9d2e8','#9c8bb9'],
+ ['#e5e8cc','#b6c08b'],['#ead7bd','#c49b75'],['#f2e5cc','#d4b48a'],['#d4e5df','#91b8aa'],['#e9d9c6','#bf9976']
+];
+const esc = value => String(value).replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
+// Images should be placed in an "images" folder beside index.html/story.html.
+// The fallback also checks common extensions and images placed beside the HTML files.
+const coverPath = id => `images/image${id}.jpg`;
+const storyPath = id => `images/image${id}.jpg`;
+
+// Uploaded cover images are saved in IndexedDB, so they remain after refreshing the page.
+const IMAGE_DB_NAME = 'nicsverse-image-library';
+const IMAGE_STORE_NAME = 'story-images';
+function openImageDB() {
+  return new Promise((resolve, reject) => {
+    if (!('indexedDB' in window)) { reject(new Error('This browser does not support saved image uploads.')); return; }
+    const request = indexedDB.open(IMAGE_DB_NAME, 1);
+    request.onupgradeneeded = () => {
+      const db = request.result;
+      if (!db.objectStoreNames.contains(IMAGE_STORE_NAME)) db.createObjectStore(IMAGE_STORE_NAME);
+    };
+    request.onsuccess = () => resolve(request.result);
+    request.onerror = () => reject(request.error || new Error('Could not open image storage.'));
+  });
+}
+async function saveStoryImage(id, blob) {
+  const db = await openImageDB();
+  return new Promise((resolve, reject) => {
+    const tx = db.transaction(IMAGE_STORE_NAME, 'readwrite');
+    tx.objectStore(IMAGE_STORE_NAME).put(blob, String(id));
+    tx.oncomplete = () => { db.close(); resolve(); };
+    tx.onerror = () => { db.close(); reject(tx.error || new Error('Could not save this image.')); };
+  });
+}
+async function getStoryImage(id) {
+  const db = await openImageDB();
+  return new Promise((resolve, reject) => {
+    const tx = db.transaction(IMAGE_STORE_NAME, 'readonly');
+    const request = tx.objectStore(IMAGE_STORE_NAME).get(String(id));
+    request.onsuccess = () => { const result = request.result || null; db.close(); resolve(result); };
+    request.onerror = () => { db.close(); reject(request.error || new Error('Could not load saved image.')); };
+  });
+}
+function putImageInContainer(container, id, blob) {
+  if (!container) return;
+  let img = container.querySelector('img[data-story-image]');
+  if (!img) {
+    img = document.createElement('img');
+    img.dataset.storyImage = String(id);
+    img.alt = `Uploaded cover art for ${STORIES.find(item => item.id === Number(id))?.title || 'NicsVerse story'}`;
+    const placeholder = container.querySelector('.cover-placeholder');
+    if (placeholder) placeholder.replaceWith(img); else container.prepend(img);
+  }
+  img.dataset.customImage = 'true';
+  img.dataset.fallbackReady = 'true';
+  if (img.dataset.objectUrl) URL.revokeObjectURL(img.dataset.objectUrl);
+  const objectUrl = URL.createObjectURL(blob);
+  img.dataset.objectUrl = objectUrl;
+  img.onerror = null;
+  img.src = objectUrl;
+}
+async function applySavedStoryImage(id, scope=document) {
+  try {
+    const blob = await getStoryImage(id);
+    if (!blob) return false;
+    scope.querySelectorAll(`.book-card[data-story-id="${id}"] .cover-wrap, .story-cover[data-story-cover="${id}"], #supportImage[data-story-cover="${id}"]`).forEach(container => putImageInContainer(container, id, blob));
+    return true;
+  } catch (error) {
+    console.warn('NicsVerse could not load a saved image:', error);
+    return false;
+  }
+}
+async function handleStoryImageUpload(id, file, scope=document) {
+  if (!file || !file.type.startsWith('image/')) {
+    alert('Please choose an image file.');
+    return;
+  }
+  try {
+    await saveStoryImage(id, file);
+    await applySavedStoryImage(id, scope);
+    // If the selected story card is not currently in the rendered page, update any visible matching containers.
+    const blob = await getStoryImage(id);
+    if (blob) {
+      document.querySelectorAll(`.book-card[data-story-id="${id}"] .cover-wrap, .story-cover[data-story-cover="${id}"], #supportImage[data-story-cover="${id}"]`).forEach(container => putImageInContainer(container, id, blob));
+    }
+    const status = document.querySelector(`[data-upload-status="${id}"]`);
+    if (status) status.textContent = 'Image saved ✓';
+  } catch (error) {
+    console.error(error);
+    alert('Hindi na-save ang image. Please try another image or browser.');
+  }
+}
+
+function attachImageFallback(img, id) {
+  const candidates = [
+    `images/image${id}.jpg`,
+    `images/image${id}.jpeg`,
+    `images/image${id}.png`,
+    `images/image${id}.JPG`,
+    `images/Image${id}.jpg`,
+    `image${id}.jpg`,
+    `image${id}.jpeg`,
+    `image${id}.png`
+  ];
+  let index = 0;
+  img.onerror = () => {
+    index += 1;
+    if (index < candidates.length) {
+      img.src = candidates[index];
+      return;
+    }
+    const story = STORIES.find(item => item.id === Number(id));
+    const colors = coverColors[(Number(id) - 1) % coverColors.length];
+    const placeholder = document.createElement('div');
+    placeholder.className = 'cover-placeholder';
+    placeholder.style.setProperty('--cover-a', colors[0]);
+    placeholder.style.setProperty('--cover-b', colors[1]);
+    placeholder.innerHTML = `<span class="cover-flower">✿</span><strong>${story ? esc(story.title) : 'NicsVerse'}</strong><small>${story ? esc(story.genre) : 'Story image'} · NicsVerse</small>`;
+    img.replaceWith(placeholder);
+  };
+}
+function coverMarkup(story, big=false) {
+  const colors=coverColors[(story.id-1)%coverColors.length];
+  return `<div class="cover-placeholder" style="--cover-a:${colors[0]};--cover-b:${colors[1]}"><span class="cover-flower">✿</span><strong>${esc(story.title)}</strong><small>${esc(story.genre)} · NicsVerse</small></div>`;
+}
+function coverImageMarkup(story, isStory=false) {
+ const path = isStory ? storyPath(story.id) : coverPath(story.id);
+ return `<img src="${path}" data-story-image="${story.id}" alt="Cover art for ${esc(story.title)}" loading="lazy">`;
+}
+
+function initImages(scope=document) {
+ scope.querySelectorAll('img[data-story-image]').forEach(img => {
+   if (!img.dataset.fallbackReady) {
+     img.dataset.fallbackReady = 'true';
+     attachImageFallback(img, img.dataset.storyImage);
+   }
+   applySavedStoryImage(Number(img.dataset.storyImage), scope);
+ });
+}
+
+function renderCard(story) {
+ const liked=localStorage.getItem(`nicsverse-like-${story.id}`)==='true';
+ return `<article class="book-card" data-story-id="${story.id}">
+   <div class="cover-wrap">${coverImageMarkup(story)}<span class="genre-label">${esc(story.genre)}</span></div>
+   <div class="book-info"><h3>${esc(story.title)}</h3><p class="book-author">by ${esc(story.author)}</p>
+   <p class="book-synopsis">${esc(story.synopsis)}</p>
+   <div class="card-actions"><a class="read-button" href="story.html?id=${story.id}">Read story ↗</a><button class="like-button ${liked?'liked':''}" type="button" data-like="${story.id}" aria-label="${liked?'Unlike':'Like'} ${esc(story.title)}">${liked?'♥':'♡'}</button></div>
+   <button class="details-button" type="button" data-details="${story.id}">Story details +</button>
+   <label class="upload-image-button" for="upload-image-${story.id}">＋ Upload image</label><input class="story-image-input" id="upload-image-${story.id}" type="file" accept="image/*" data-upload-image="${story.id}" aria-label="Upload image for ${esc(story.title)}"><span class="upload-status" data-upload-status="${story.id}" aria-live="polite"></span>
+   </div></article>`;
+}
+function initLibrary() {
+ const grid=document.getElementById('bookGrid'); if(!grid)return;
+ const filterBox=document.getElementById('genreFilters');
+ const genres=['All',...new Set(STORIES.map(s=>s.genre))];
+ filterBox.innerHTML=genres.map(g=>`<button class="filter-chip ${g==='All'?'selected':''}" data-genre="${esc(g)}" type="button">${esc(g==='All'?'All stories':g)}</button>`).join('');
+ let selected='All';
+ function draw(){
+  const q=document.getElementById('searchInput').value.trim().toLowerCase();
+  const shown=STORIES.filter(s=>(selected==='All'||s.genre===selected)&&[s.title,s.author,s.genre,s.synopsis].join(' ').toLowerCase().includes(q));
+  grid.innerHTML=shown.map(renderCard).join('');
+  initImages(grid);
+  document.getElementById('resultsCount').textContent=`${shown.length} ${shown.length===1?'story':'stories'}`;
+  document.getElementById('emptyState').hidden=shown.length!==0;
+ }
+ filterBox.addEventListener('click',e=>{const b=e.target.closest('[data-genre]');if(!b)return;selected=b.dataset.genre;filterBox.querySelectorAll('.filter-chip').forEach(x=>x.classList.toggle('selected',x===b));draw();});
+ document.getElementById('searchInput').addEventListener('input',draw);
+ grid.addEventListener('click',e=>{
+  const like=e.target.closest('[data-like]'); if(like){const id=like.dataset.like;const key=`nicsverse-like-${id}`;const next=localStorage.getItem(key)!=='true';localStorage.setItem(key,String(next));like.classList.toggle('liked',next);like.textContent=next?'♥':'♡';like.setAttribute('aria-label',`${next?'Unlike':'Like'} ${STORIES[id-1].title}`);}
+  const detail=e.target.closest('[data-details]');if(detail)showDetails(Number(detail.dataset.details));
+ });
+ grid.addEventListener('change', e => {
+   const input = e.target.closest('[data-upload-image]');
+   if (!input || !input.files || !input.files[0]) return;
+   const id = Number(input.dataset.uploadImage);
+   handleStoryImageUpload(id, input.files[0], document);
+   input.value = '';
+ });
+ draw();
+}
+function showDetails(id){
+ const s=STORIES.find(x=>x.id===id);if(!s)return;
+ const dialog=document.getElementById('detailsDialog');
+ document.getElementById('dialogContent').innerHTML=`<p class="dialog-kicker">NICSVERSE STORY FILE · #${String(s.id).padStart(2,'0')}</p><h2 class="dialog-title">${esc(s.title)}</h2><p class="dialog-copy"><strong>Author:</strong> ${esc(s.author)}<br><strong>Genre:</strong> ${esc(s.genre)}<br><strong>Chapter:</strong> ${esc(s.chapter)}</p><p class="dialog-copy">${esc(s.synopsis)}</p><a class="button button-primary" href="story.html?id=${s.id}">Read this story ↗</a>`;
+ dialog.showModal();
+}
+function initStory(){
+ const root=document.getElementById('storyRoot');if(!root)return;
+ const id=Number(new URLSearchParams(location.search).get('id')||1);
+ const s=STORIES.find(x=>x.id===id)||STORIES[0];
+ document.title=`${s.title} | NicsVerse`;
+ root.innerHTML=`<div class="story-top"><a class="brand" href="index.html"><span class="brand-flower">✿</span><span>NicsVerse</span></a><div class="header-actions"><button class="icon-button" id="themeToggle" type="button" aria-label="Toggle light and dark theme">☼</button><a class="back-link" href="index.html#library">← Back to library</a></div></div>
+ <main class="story-layout"><section class="story-intro"><div class="story-cover" data-story-cover="${s.id}">${coverImageMarkup(s)}</div><div class="story-intro-copy"><p class="eyebrow">A NICSVERSE ORIGINAL · STORY #${String(s.id).padStart(2,'0')}</p><h1 class="story-title">${esc(s.title)}</h1><p class="book-author">Written by ${esc(s.author)}</p><div class="story-meta"><span class="meta-pill">${esc(s.genre)}</span><span class="meta-pill">1 chapter</span><span class="meta-pill">Original story</span></div><p class="story-synopsis" id="synopsisText">${esc(s.synopsis)}</p><div class="story-buttons"><button class="outline-button" id="synopsisToggle" type="button">Hide synopsis −</button><button class="outline-button" id="storyLike" type="button">${localStorage.getItem(`nicsverse-like-${s.id}`)==='true'?'♥ Liked':'♡ Like story'}</button><button class="outline-button" id="storyImageToggle" type="button">Show story image</button><label class="outline-button upload-story-label" for="storyImageUpload">＋ Upload image</label><input class="story-image-input" id="storyImageUpload" type="file" accept="image/*" data-upload-image="${s.id}" aria-label="Upload image for ${esc(s.title)}"><span class="upload-status" data-upload-status="${s.id}" aria-live="polite"></span></div><div class="story-cover hidden" id="supportImage" data-story-cover="${s.id}" style="height:180px;margin-top:15px">${`<img src="${storyPath(s.id)}" data-story-image="${s.id}" alt="Supporting image for ${esc(s.title)}">`}</div></div></section>
+ <section class="chapter-header"><p class="eyebrow">CHAPTER 01 · SINGLE CHAPTER</p><h2>${esc(s.chapter)}</h2><div class="reading-progress" aria-label="Reading progress"><span id="progressBar"></span></div><p id="progressText" class="book-author">0% read</p></section>
+ <article class="reading-area" id="readingArea">${s.content.split('\n\n').map(p=>`<p>${esc(p)}</p>`).join('')}<div class="story-end"><span>✿</span>— End of Chapter One —<br><small>Thank you for visiting this little universe.</small></div></article>
+ <div class="story-footer"><span>✿ NicsVerse · Nicole L. Mercader</span><span>ITE 1 Project · BSIT 21008</span></div><div class="story-nav"><a class="button button-primary" id="previousStory" href="index.html#library">← Previous Story</a><a class="button button-primary" id="nextStory" href="index.html#library">Next Story →</a></div></main>`;
+ initImages(root);
+ const storyImageInput = document.getElementById('storyImageUpload');
+ if (storyImageInput) storyImageInput.addEventListener('change', () => {
+   if (storyImageInput.files && storyImageInput.files[0]) handleStoryImageUpload(s.id, storyImageInput.files[0], document);
+   storyImageInput.value = '';
+ });
+ const previousStory = STORIES.find(item => item.id === s.id - 1);
+ const nextStory = STORIES.find(item => item.id === s.id + 1);
+ const previousButton = document.getElementById('previousStory');
+ const nextButton = document.getElementById('nextStory');
+ if (previousStory) {
+  previousButton.href = `story.html?id=${previousStory.id}`;
+  previousButton.textContent = `← ${previousStory.title}`;
+ } else {
+  previousButton.style.visibility = 'hidden';
+ }
+ if (nextStory) {
+  nextButton.href = `story.html?id=${nextStory.id}`;
+  nextButton.textContent = `${nextStory.title} →`;
+ } else {
+  nextButton.href = 'index.html#library';
+  nextButton.textContent = 'Back to Library →';
+ }
+ initTheme();
+ document.getElementById('synopsisToggle').addEventListener('click',()=>{const p=document.getElementById('synopsisText');const hidden=p.classList.toggle('hidden');document.getElementById('synopsisToggle').textContent=hidden?'Show synopsis +':'Hide synopsis −';});
+ document.getElementById('storyLike').addEventListener('click',()=>{const key=`nicsverse-like-${s.id}`;const next=localStorage.getItem(key)!=='true';localStorage.setItem(key,String(next));document.getElementById('storyLike').textContent=next?'♥ Liked':'♡ Like story';});
+ document.getElementById('storyImageToggle').addEventListener('click',()=>{const img=document.getElementById('supportImage');const hidden=img.classList.toggle('hidden');document.getElementById('storyImageToggle').textContent=hidden?'Show story image':'Hide story image';});
+ const article=document.getElementById('readingArea'),bar=document.getElementById('progressBar'),label=document.getElementById('progressText');
+ function updateProgress(){const rect=article.getBoundingClientRect();const total=article.offsetHeight-window.innerHeight;const passed=Math.min(Math.max(-rect.top,0),Math.max(total,1));const pct=Math.round(total<=0?100:passed/total*100);bar.style.width=pct+'%';label.textContent=pct+'% read';}
+ window.addEventListener('scroll',updateProgress,{passive:true});updateProgress();
+}
+function initTheme(){
+ const saved=localStorage.getItem('nicsverse-theme');if(saved==='dark')document.body.classList.add('theme-dark');
+ const button=document.getElementById('themeToggle');if(button)button.addEventListener('click',()=>{document.body.classList.toggle('theme-dark');localStorage.setItem('nicsverse-theme',document.body.classList.contains('theme-dark')?'dark':'light');});
+}
+document.addEventListener('DOMContentLoaded',()=>{
+ initTheme();initLibrary();initStory();
+ const close=document.getElementById('closeDialog'),dialog=document.getElementById('detailsDialog');
+ if(close&&dialog)close.addEventListener('click',()=>dialog.close());
+ if(dialog)dialog.addEventListener('click',e=>{if(e.target===dialog)dialog.close();});
+});
