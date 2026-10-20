@@ -1187,30 +1187,3 @@ button {
     padding: 32px 16px 55px;
   }
 }
-
-
-/* Per-story image upload controls */
-.upload-image-button,
-.upload-story-label {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 5px;
-  margin-top: 9px;
-  padding: 8px 11px;
-  border: 1px dashed var(--sage, #9ebc9a);
-  border-radius: 18px;
-  background: var(--surface-2, #f5f7f1);
-  color: var(--green, #35553b);
-  font: inherit;
-  font-size: 0.72rem;
-  font-weight: 700;
-  cursor: pointer;
-  text-align: center;
-}
-.upload-image-button { width: 100%; box-sizing: border-box; }
-.upload-story-label { margin-top: 0; }
-.upload-image-button:hover,
-.upload-story-label:hover { background: var(--surface, #fff); border-style: solid; }
-.story-image-input { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
-.upload-status { display: block; min-height: 1em; margin-top: 4px; color: var(--green, #35553b); font-size: 0.65rem; }
